@@ -1,3 +1,6 @@
+
+# Purpose: Analyzing Tornado Data Over Time
+# Import necessary libraries
 import pandas as pd
 # read the csv file
 df = pd.read_csv("tornados.csv")
