@@ -1,4 +1,3 @@
-
 # Purpose: Analyzing Tornado Data Over Time
 # Import necessary libraries
 import pandas as pd
